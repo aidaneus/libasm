@@ -18,7 +18,7 @@
 
 ## Eng
 
-The project is devote to the study of assembly language.
+The project is devoted to the study of assembly language.
 
 #### The Goal:
 ```
