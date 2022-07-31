@@ -16,8 +16,6 @@
 
 ## Eng
 
-The project is devoted to the study of assembly language.
-
 #### The Goal:
 ```
  The purpose of this project is to introduce assembly language.
